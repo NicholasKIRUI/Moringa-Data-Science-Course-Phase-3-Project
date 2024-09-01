@@ -17,7 +17,7 @@ Once they are able to predict those customers likely to leave, they can put in p
 
 ## Business Problem
 
-The business problem in this project is being able to predict whic customer is likely to leave the company in the next few months.
+The business problem in this project is being able to predict which customer is likely to leave the company in the next few months.
 - Prediciting whic customer is likely to leave will enable the company put in place measures to retain the cutomers and therefore an increased likelihood of retaining the current company revenue.
 
 ## Data Understanding
