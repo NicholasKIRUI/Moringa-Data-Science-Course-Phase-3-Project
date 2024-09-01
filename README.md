@@ -1,5 +1,4 @@
 ## Part Time Data Science 07 class: Phase 3 Project
-### Project by: Nicholas Kirui
 ### Date of Submission: 01 September 2024
 
 ## Project overview
